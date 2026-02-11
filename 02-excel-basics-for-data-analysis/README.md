@@ -1,10 +1,10 @@
-# 📘 Course 2 — Excel Basics for Data Analysis  
-📁 Folder: `02-excel-basics-for-data-analysis/`
+# Course 2 — Excel Basics for Data Analysis  
 
-Hands-on training in Excel fundamentals used for data cleaning, transformation, and basic analysis.
+This course covers the essential Excel skills needed for cleaning, organizing, and analyzing data using spreadsheets.
 
-### **What You Will Learn**
-- Spreadsheet navigation, formulas, and data entry  
-- Importing data and performing data quality checks  
-- Sorting, filtering, and lookup functions  
-- Pivot tables, pivot charts, and basic visualizations  
+### 🔍 What I Learned
+- Basic spreadsheet navigation, data entry, and formulas  
+- Importing datasets and performing data quality checks  
+- Sorting, filtering, and using lookup functions  
+- Creating pivot tables and pivot charts for analysis  
+- Building simple visualizations in Excel  
